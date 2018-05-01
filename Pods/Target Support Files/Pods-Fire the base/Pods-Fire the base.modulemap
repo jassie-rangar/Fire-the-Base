@@ -1,0 +1,6 @@
+framework module Pods_Fire_the_base {
+  umbrella header "Pods-Fire the base-umbrella.h"
+
+  export *
+  module * { export * }
+}
